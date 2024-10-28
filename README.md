@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Parvaneh Esmaili
-- 👀 I’m interested in exploring the world
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Parvaneh Esmaili.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning software.
+
 
 <!---
 paevaneh-esmaili/paevaneh-esmaili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
